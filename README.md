@@ -20,6 +20,8 @@ Powered by a network of intelligent agents — from standardization agents to we
 
 WEMA is built for engineers, by engineers — to simplify, accelerate, and optimize component selection. 🛠️📈
 
+## Link to our Application -> [https://we-ma.netlify.app/](https://we-ma.netlify.app/)
+
 ## Wema Chatbot solution
 
 
