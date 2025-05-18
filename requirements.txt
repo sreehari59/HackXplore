@@ -1,4 +1,11 @@
-requests==2.31.0
-beautifulsoup4==4.12.2
-openai==1.3.0
-python-dotenv==1.0.0 
+requests
+beautifulsoup4
+openai
+python-dotenv
+Flask
+pandas
+pydantic
+google-genai
+flask-cors
+openpyxl
+python-dotenv
