@@ -32,17 +32,6 @@ WEMA is built for engineers, by engineers — to simplify, accelerate, and optim
     <b>Provide the manufacturer number and get the receommendation</b> 
 </p>
 
-
-
-<p align="center">
-  <img src="resources/Screenshot 2025-05-18 at 11.47.28.png" width="800" />
-</p>
-<p align="center">
-    <b>Provide the manufacturer number and get the receommendation</b> 
-</p>
-
-
-
 # Tech Stack
 - Azure
 - Python
